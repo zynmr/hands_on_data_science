@@ -1,0 +1,15 @@
+2019-03-28 18:48:05,790 - linear_algebra_notebook - INFO - Vectors must have the same length.
+2019-03-28 18:48:42,555 - linear_algebra_notebook - ERROR - vectors must have the same length.
+2019-03-28 18:51:07,787 - linear_algebra_notebook - INFO - checking length of vector a [1, 5, 9] and vector b [7, 8, 3]
+2019-03-28 18:51:07,787 - linear_algebra_notebook - INFO - sum up vector a and vector b.
+2019-03-28 18:51:23,987 - linear_algebra_notebook - INFO - checking length of vector a [1, 5, 9] and vector b [7, 8, 3]
+2019-03-28 18:51:23,987 - linear_algebra_notebook - INFO - sum up vector a and vector b.
+2019-03-28 18:51:23,988 - linear_algebra_notebook - INFO - result: [8, 13, 12]
+2019-03-28 19:52:55,424 - linear_algebra_notebook - INFO - checking length of vector a [1, 5] and vector b [2, 6, 4]
+2019-03-28 19:52:55,428 - linear_algebra_notebook - ERROR - vectors must have the same length.
+2019-03-28 20:33:40,452 - linear_algebra_notebook - INFO - checking length of vector a [1, 5, 0] and vector b [2, 6, 4]
+2019-03-28 20:33:40,455 - linear_algebra_notebook - INFO - sum up vector a and vector b.
+2019-03-28 20:33:40,455 - linear_algebra_notebook - INFO - result: [3, 11, 4]
+2019-03-28 20:33:46,340 - linear_algebra_notebook - INFO - checking length of vector a [1, 5, 0] and vector b [2, 6, 4]
+2019-03-28 20:34:11,728 - linear_algebra_notebook - INFO - checking length of vector a [1, 5, 0] and vector b [2, 6, 4]
+2019-03-28 20:34:43,417 - linear_algebra_notebook - INFO - checking length of vector a [1, 5, 0] and vector b [2, 6, 4]
