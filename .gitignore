@@ -6,6 +6,7 @@
 # jupyter #
 ###########
 .ipynb_checkpoints
-########
-# .git #
-########
+#######
+# GIT #
+#######
+.git
